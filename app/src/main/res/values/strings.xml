@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AboutMeApp</string>
+    <string name="name">Polly</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">Hi! My name is Polly.
+\n\nI like knitting.
+\n\nKnitting is a method by which yarn is manipulated to create a textile or fabric;
+\n\nit is used in many types of garments. Knitting may be done by hand or by machine.
+\n\nKnitting creates stitches: loops of yarn in a row, either flat or in the round.
+\n\nThere are usually many active stitches on the knitting needle at one time.
+\n\nKnitting was initially a male-only occupation.
+\n\nIn fact, when the very first knitting union was established in Paris in 1527,
+        \n\nno women were allowed. When the knitting machine was invented,
+        \n\nhand knitting became useful but nonessential. Like quilting, spinning, and needlepoint,
+        \n\nknitting has become a leisurely activity.
+        \n\nYou can ask me if you are interested on something else.\n\n</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">DONE</string>
+</resources>
